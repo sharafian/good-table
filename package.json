@@ -1,0 +1,11 @@
+{
+  "name": "good-table",
+  "version": "1.0.0",
+  "description": "format array of arrays as a table with no config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Sharafian",
+  "license": "ISC"
+}
