@@ -1,7 +1,7 @@
 # Good Table
 > format array of arrays as a table with no config
 
-```
+```js
 const table = require('good-table')
 const formatted = table([
   [ 'Name', 'ID', 'Price' ],
