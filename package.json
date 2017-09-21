@@ -1,6 +1,6 @@
 {
   "name": "good-table",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "format array of arrays as a table with no config",
   "main": "index.js",
   "scripts": {
