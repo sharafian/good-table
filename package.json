@@ -10,6 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/sharafian/good-table.git"
   },
+  "keywords": [
+    "table",
+    "tabular",
+    "print",
+    "simple"
+  ],
   "author": "Ben Sharafian",
   "license": "ISC"
 }
